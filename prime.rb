@@ -1,6 +1,6 @@
 def prime?(num)
   if num < 0 
-    false 
+    nil
   #elsif num
   
   end 
